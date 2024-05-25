@@ -1,0 +1,60 @@
+﻿@model IEnumerable<gStoreMedicPlus.Models.TbConsulta>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="d-sm-flex align-items-center justify-content-between mb-4">
+    <h1 class="d-none d-sm-inline-block">Consultas</h1>
+
+    <p class="d-none d-sm-inline-block">
+        <a asp-action="Create" class="btn btn-outline-success">Crear</a>
+    </p>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                No.
+            </th>
+            <th>
+                Paciente
+            </th>
+            <th>
+                Motivo Consulta
+            </th>
+            <th>
+                Fecha de Creación
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.OrderByDescending(x => x.Id)) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TbPersonas.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MotivoConsulta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaCreado)
+            </td>      
+            
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning"><li class="fa fa-edit"></li></a> |
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary"><li class="fa fa-eye"></li></a> |
+                <a asp-action="Reconsulta" asp-route-id="@item.Id" class="btn btn-success"><li class="fa fa-recycle"></li></a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"><li class="fa fa-trash"></li></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

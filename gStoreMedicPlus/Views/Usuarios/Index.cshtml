@@ -1,0 +1,77 @@
+﻿@model IEnumerable<gStoreMedicPlus.Models.TbUsuario>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Usuarios</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-success">Crear</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Usuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaCreado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaModificado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaUltimoAcceso)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usuario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaCreado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaModificado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaUltimoAcceso)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning"><li class="fa fa-edit"></li></a> |
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary"><li class="fa fa-eye"></li></a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"><li class="fa fa-trash"></li></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<gStoreMedicPlus.Models.TbConsulta>
+
+@{
+    ViewData["Title"] = "Index";
+     
+}
+
+<h1>Consultas</h1>
+
+<p>
+
+    <!-- Topbar Search -->
+    <form class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search" asp-controller="Consultas" asp-action="Index">
+        <div class="input-group">
+            <input type="text" class="form-control bg-light small border border-primary" placeholder="Buscar..." aria-label="Search" aria-describedby="basic-addon2" name="buscar">
+            <div class="input-group-append">
+                <input type="submit" value="Buscar" class="btn btn-primary" />
+            </div>
+        </div>
+    </form>
+    <a asp-action="Create" class="btn btn-outline-success">Crear Consulta</a>
+
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                No.
+            </th>
+            <th>
+                Descripción
+            </th>
+            <th>
+                Fecha Creada
+            </th>
+            <th>
+                Paciente
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaCreado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TbPersonas.Nombre)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning"><li class="fa fa-edit"></li></a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary"><li class="fa fa-eye"></li></a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"><li class="fa fa-trash"></li></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

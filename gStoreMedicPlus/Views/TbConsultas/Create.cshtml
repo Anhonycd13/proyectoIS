@@ -1,0 +1,608 @@
+﻿@model gStoreMedicPlus.Models.TbConsulta
+
+@{
+    ViewData["Title"] = "Crear Consultas";
+}
+
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+<h1>Crear</h1>
+
+<h4>Consultas</h4>
+<hr />
+<div class="row">
+    <div class="col-md-10">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group" hidden>
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" value="@ViewData["id"]" readonly />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TbPersonasId" class="control-label">Nombre del Paciente</label>
+                <select asp-for="TbPersonasId" class="form-control my-select" asp-items="ViewBag.TbPersonasId"></select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MotivoConsulta" class="control-label">Motivo de Consulta</label>
+                <input asp-for="MotivoConsulta" class="form-control" />
+                <span asp-validation-for="MotivoConsulta" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label">Motivo de la Consulta</label>
+                @*<input asp-for="Descripcion" class="form-control" />*@
+                <textarea asp-for="Descripcion" class="form-control"></textarea>
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="FechaCreado" class="control-label"></label>
+                <input asp-for="FechaCreado" class="form-control" />
+                <span asp-validation-for="FechaCreado" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="FechaModificado" class="control-label"></label>
+                <input asp-for="FechaModificado" class="form-control" />
+                <span asp-validation-for="FechaModificado" class="text-danger"></span>
+            </div>
+
+            <hr />
+            <h2>Antecedentes</h2>
+
+            <div class="form-group row mb-3">
+                <label asp-for="AntecedentesMedicos" class="control-label col-sm-2 col-form-label">Médicos</label>
+                <div class="col-sm-10">
+                    <input asp-for="AntecedentesMedicos" class="form-control" />
+                    <span asp-validation-for="AntecedentesMedicos" class="text-danger"></span>
+                </div>                               
+            </div>
+            <div class="form-group row mb-3">
+                <label asp-for="AntecedentesQuirurgicos" class="control-label col-sm-2 col-form-label">Quirurgicos</label>
+                <div class="col-sm-10">
+                    <input asp-for="AntecedentesQuirurgicos" class="form-control" />
+                    <span asp-validation-for="AntecedentesQuirurgicos" class="text-danger"></span>
+                </div>                                 
+            </div>
+            <div class="form-group row mb-3">
+                <label asp-for="AntecedentesFamiliares" class="control-label col-sm-2 col-form-label">Familiares</label>
+                <div class="col-sm-10">
+                    <input asp-for="AntecedentesFamiliares" class="form-control" />
+                    <span asp-validation-for="AntecedentesFamiliares" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row mb-3">
+                <label asp-for="AntecedentesOftalmicos" class="control-label col-sm-2 col-form-label">Oftálmicos</label>
+                <div class="col-sm-10">
+                    <input asp-for="AntecedentesOftalmicos" class="form-control" />
+                    <span asp-validation-for="AntecedentesOftalmicos" class="text-danger"></span>
+                </div>                                
+            </div>
+            <div class="form-group row mb-3">
+                <label asp-for="AntecedentesAlergicos" class="control-label col-sm-2 col-form-label">Alérgicos</label>
+                <div class="col-sm-10">               
+                    <input asp-for="AntecedentesAlergicos" class="form-control" />
+                    <span asp-validation-for="AntecedentesAlergicos" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row mb-3">
+                <label asp-for="AntecedentesOtros" class="control-label col-sm-2 col-form-label">Otros</label>
+                <div class="col-sm-10">
+                    <input asp-for="AntecedentesOtros" class="form-control" />
+                    <span asp-validation-for="AntecedentesOtros" class="text-danger"></span>
+                </div>                                
+            </div>
+
+            <hr />
+
+            <!-- DataTales Example -->
+            <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                    <h6 class="m-0 font-weight-bold text-primary">Tabla de datos 1</h6>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th> </th>
+                                    <th>OD</th>
+                                    <th>OS</th>
+                                    <th> </th>
+                                    <th>OD</th>
+                                    <th>OS</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><b>AVL SC</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="AvlScOd" class="form-control" />
+                                            <span asp-validation-for="AvlScOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="AvlScOs" class="form-control" />
+                                            <span asp-validation-for="AvlScOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td><b>AVC SC</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="AvcScOd" class="form-control" />
+                                            <span asp-validation-for="AvlScOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="AvcScOs" class="form-control" />
+                                            <span asp-validation-for="AvlScOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>W</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="WOd" class="form-control" />
+                                            <span asp-validation-for="WOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="WOs" class="form-control" />
+                                            <span asp-validation-for="WOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td><b>ADD</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="AddOd" class="form-control" />
+                                            <span asp-validation-for="AddOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="AddOs" class="form-control" />
+                                            <span asp-validation-for="AddOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>AVL CC</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="AvlCcOd" class="form-control" />
+                                            <span asp-validation-for="AvlCcOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="AvlCcOs" class="form-control" />
+                                            <span asp-validation-for="AvlCcOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td><b>AVC CC</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="AvcCcOd" class="form-control" />
+                                            <span asp-validation-for="AvcCcOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="AvcCcOs" class="form-control" />
+                                            <span asp-validation-for="AvcCcOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <hr />
+
+            <!-- DataTales Example -->
+            <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                    <h6 class="m-0 font-weight-bold text-primary">Tabla de datos 2</h6>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th colspan="3"> </th>
+                                    <th>ESF.</th>
+                                    <th>CIL</th>
+                                    <th>EJE.</th>
+                                    <th>ADICIÓN</th>
+                                    <th>MATERIALES</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td rowspan="4">
+                                        M + S
+                                    </td>
+                                    <td rowspan="2">
+                                        LEJOS
+                                    </td>
+                                    <td>
+                                        OD
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsLejosOdEsf" class="form-control" />
+                                        <span asp-validation-for="MsLejosOdEsf" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsLejosOdCil" class="form-control" />
+                                        <span asp-validation-for="MsLejosOdCil" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsLejosOdEje" class="form-control" />
+                                        <span asp-validation-for="MsLejosOdEje" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsLejosOdAdicion" class="form-control" />
+                                        <span asp-validation-for="MsLejosOdAdicion" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsLejosOdMateriales" class="form-control" />
+                                        <span asp-validation-for="MsLejosOdMateriales" class="text-danger"></span>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        OS
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsLejosOsEsf" class="form-control" />
+                                        <span asp-validation-for="MsLejosOsEsf" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsLejosOsCil" class="form-control" />
+                                        <span asp-validation-for="MsLejosOsCil" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsLejosOsEje" class="form-control" />
+                                        <span asp-validation-for="MsLejosOsEje" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsLejosOsAdicion" class="form-control" />
+                                        <span asp-validation-for="MsLejosOsAdicion" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsLejosOsMateriales" class="form-control" />
+                                        <span asp-validation-for="MsLejosOsMateriales" class="text-danger"></span>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td rowspan ="2">
+                                        CERCA
+                                    </td>
+                                    <td>
+                                        OD
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsCercaOdEsf" class="form-control" />
+                                        <span asp-validation-for="MsCercaOdEsf" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsCercaOdCil" class="form-control" />
+                                        <span asp-validation-for="MsCercaOdCil" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsCercaOdEje" class="form-control" />
+                                        <span asp-validation-for="MsCercaOdEje" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsCercaOdAdicion" class="form-control" />
+                                        <span asp-validation-for="MsCercaOdAdicion" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsCercaOdMateriales" class="form-control" />
+                                        <span asp-validation-for="MsCercaOdMateriales" class="text-danger"></span>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        OS
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsCercaOsEsf" class="form-control" />
+                                        <span asp-validation-for="MsCercaOsEsf" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsCercaOsCil" class="form-control" />
+                                        <span asp-validation-for="MsCercaOsCil" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsCercaOsEje" class="form-control" />
+                                        <span asp-validation-for="MsCercaOsEje" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsCercaOsAdicion" class="form-control" />
+                                        <span asp-validation-for="MsCercaOsAdicion" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MsCercaOsMateriales" class="form-control" />
+                                        <span asp-validation-for="MsCercaOsMateriales" class="text-danger"></span>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td rowspan="2">
+                                        M + R
+                                    </td>
+                                    <td rowspan="2">
+                                        LEJOS
+                                    </td>
+                                    <td>
+                                        OD
+                                    </td>
+                                    <td>
+                                        <input asp-for="MrLejosOdEsf" class="form-control" />
+                                        <span asp-validation-for="MrLejosOdEsf" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MrLejosOdCil" class="form-control" />
+                                        <span asp-validation-for="MrLejosOdCil" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MrLejosOdEje" class="form-control" />
+                                        <span asp-validation-for="MrLejosOdEje" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MrLejosOdAdicion" class="form-control" />
+                                        <span asp-validation-for="MrLejosOdAdicion" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MrLejosOdMateriales" class="form-control" />
+                                        <span asp-validation-for="MrLejosOdMateriales" class="text-danger"></span>
+                                    </td>
+                                </tr>
+
+                                <tr>
+                                    <td>
+                                        OS
+                                    </td>
+                                    <td>
+                                        <input asp-for="MrLejosOsEsf" class="form-control" />
+                                        <span asp-validation-for="MrLejosOsEsf" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MrLejosOsCil" class="form-control" />
+                                        <span asp-validation-for="MrLejosOsCil" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MrLejosOsEje" class="form-control" />
+                                        <span asp-validation-for="MrLejosOsEje" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MrLejosOsAdicion" class="form-control" />
+                                        <span asp-validation-for="MrLejosOsAdicion" class="text-danger"></span>
+                                    </td>
+                                    <td>
+                                        <input asp-for="MrLejosOsMateriales" class="form-control" />
+                                        <span asp-validation-for="MrLejosOsMateriales" class="text-danger"></span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        DIP
+                                    </td>
+                                    <td colspan="7">
+                                        <input asp-for="Dip" class="form-control" />
+                                        <span asp-validation-for="Dip" class="text-danger"></span>
+                                    </td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <hr />
+
+            <!-- DataTales Example -->
+            <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                    <h6 class="m-0 font-weight-bold text-primary">Tabla de datos 3</h6>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th> </th>
+                                    <th>OD</th>
+                                    <th>OS</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><b>LH</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="LhOd" class="form-control" />
+                                            <span asp-validation-for="LhOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="LhOs" class="form-control" />
+                                            <span asp-validation-for="LhOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>BUT</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="ButOd" class="form-control" />
+                                            <span asp-validation-for="ButOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="ButOs" class="form-control" />
+                                            <span asp-validation-for="ButOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>PIO</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="PioOd" class="form-control" />
+                                            <span asp-validation-for="PioOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="PioOs" class="form-control" />
+                                            <span asp-validation-for="PioOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>EXC</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="ExcOd" class="form-control" />
+                                            <span asp-validation-for="ExcOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="ExcOs" class="form-control" />
+                                            <span asp-validation-for="ExcOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>FOI</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="FoiOd" class="form-control" />
+                                            <span asp-validation-for="FoiOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            <input asp-for="FoiOs" class="form-control" />
+                                            <span asp-validation-for="FoiOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <hr />
+
+            <div class="form-group">
+                <label asp-for="ImpresionClinica" class="control-label">Impresiones Clinicas</label>
+                <textarea asp-for="ImpresionClinica" class="form-control"></textarea>
+                <span asp-validation-for="ImpresionClinica" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tratamiento" class="control-label"></label>
+                <textarea  asp-for="Tratamiento" class="form-control"></textarea>
+                <span asp-validation-for="Tratamiento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProximaCita" class="control-label">Fecha Próxima Cita</label>
+                <input asp-for="ProximaCita" class="form-control" />
+                <span asp-validation-for="ProximaCita" class="text-danger"></span>
+            </div>
+
+            <div class="form-group" hidden>
+                <label asp-for="TbUsuariosId" class="control-label"></label>
+                <select asp-for="TbUsuariosId" class ="form-control" asp-items="ViewBag.TbUsuariosId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listado de Consultas</a>
+</div>
+
+@section scripts {
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/i18n/es.js"></script>
+@*    <script src="https://code.jquery.com/jquery-3.6.4.min.js"
+            integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
+            crossorigin="anonymous"></script>*@
+
+    <script>
+        $(document).ready(function () {
+            $('.my-select').select2({
+                languaje: 'es',
+                ajax: {
+                    type: 'GET',
+                    //url: '@Url.Action("BuscarPacientes", "Personas")',
+                    url: 'https://localhost:7002/Personas/BuscarPacientes',
+                    dataType: 'json',
+                    delay: 300,
+                    data: function (params) {
+                        return {
+                            nombre: params.term,
+                            cantidad: 10
+                        }
+                    },
+                    //processResult: function (data) {
+                    //    var results = [];
+                    //    $.each(data, function (index, item)
+                    //        {
+                    //            results.push({
+                    //                id: item.id,
+                    //                text: item.nombre
+                    //            })
+                    //        });
+                    //    return { results };
+                    //},
+
+
+                    processResults: function (data) {
+                        return
+                        {
+                            results: $.map(data, function (item) {
+                                return {
+                                    id: item.id,
+                                    text: item.nombre
+                                };
+                            })
+                        };
+                    },
+                    cache: true,
+                },
+                placeholder: 'Ingresa un nombre',
+                minimumInputLength: 2
+
+            });
+        });
+
+        $('.my-select').on('select2:select', function (e)
+        {
+            var data = e.params.data;
+            console.log(data);
+        });
+    </script>
+}

@@ -1,0 +1,598 @@
+﻿@model gStoreMedicPlus.Models.TbConsulta
+
+@{
+    ViewData["Title"] = "Details";
+}
+    <!-- Page Heading -->
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h4 class="h3 mb-0 text-gray-800">Detalles</h4>
+    <div class="d-none d-sm-inline-block shadow-sm">
+            <a href='@Url.Action("GenerarConsulta", "TbConsultas", new { id = Model.Id, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter, itemsPerPage = ViewBag.CurrentItemsPerPage, page = ViewBag.CurrentPage })' class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm">
+                <i class="fas fa-download fa-sm text-white-50"></i> Generar Consulta
+            </a>
+
+            <a href='@Url.Action("GenerarReporteLentes", "TbConsultas", new { id = Model.Id, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter, itemsPerPage = ViewBag.CurrentItemsPerPage, page = ViewBag.CurrentPage })' class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm">
+                <i class="fas fa-download fa-sm text-white-50"></i> Generar Lentes
+            </a>
+
+            <a href='@Url.Action("GenerarReporteTratamiento", "TbConsultas", new { id = Model.Id, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter, itemsPerPage = ViewBag.CurrentItemsPerPage, page = ViewBag.CurrentPage })' class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm">
+                <i class="fas fa-download fa-sm text-white-50"></i> Generar Tratamiento
+            </a>
+        </div>
+    </div>
+
+
+<div>
+    <h4>Consulta</h4>
+    <hr />
+    <dl class="row">
+        <div class="col-md-10">
+            <div class="form-group">
+                <b>
+                    <label asp-for="Descripcion" class="control-label">Motivo de la Consulta</label>
+                </b>
+                <br />
+                @Html.DisplayFor(model => model.Descripcion)
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <b>
+                    <label asp-for="FechaCreado" class="control-label"></label>
+                </b>
+                <br />
+                @Html.DisplayFor(model => model.FechaCreado)
+                <span asp-validation-for="FechaCreado" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <b>
+                    <label asp-for="FechaModificado" class="control-label"></label>
+                </b>
+                <br />
+                @Html.DisplayFor(model => model.FechaModificado)
+                <span asp-validation-for="FechaModificado" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <b>
+
+                    <label asp-for="ProximaCita" class="control-label">Fecha Próxima Cita</label>
+                </b>
+
+                <br />
+                @Html.DisplayFor(model => model.ProximaCita)
+                <span asp-validation-for="ProximaCita" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <b>
+                    <label asp-for="MotivoConsulta" class="control-label">Motivo de Consulta</label>
+                </b>
+                <br />
+                @Html.DisplayFor(model => model.MotivoConsulta)
+                <span asp-validation-for="MotivoConsulta" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <b>
+                    <label asp-for="Tratamiento" class="control-label"></label>
+                </b>
+                <br />
+                @Html.DisplayFor(model => model.Tratamiento)
+                <span asp-validation-for="Tratamiento" class="text-danger"></span>
+            </div>
+
+            <hr />
+            <h2>Antecedentes</h2>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    Antecedentes Médicos
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.AntecedentesMedicos)
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    Antecedentes Quirúrgicos
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.AntecedentesQuirurgicos)
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    Antecedentes Familiares
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.AntecedentesFamiliares)
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    Antecedentes Oftálmicos
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.AntecedentesOftalmicos)
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    Antecedentes Alérgicos
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.AntecedentesAlergicos)
+                </dd>
+            </div>
+
+            <div class="row">
+                <dt class="col-sm-3">
+                    Otros Antecedentes
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.AntecedentesOtros)
+                </dd>
+            </div>
+
+            <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                    <h6 class="m-0 font-weight-bold text-primary">Tabla de datos 1</h6>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th> </th>
+                                    <th>OD</th>
+                                    <th>OS</th>
+                                    <th> </th>
+                                    <th>OD</th>
+                                    <th>OS</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><b>AVL SC</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.AvlScOd)
+                                            <span asp-validation-for="AvlScOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.AvlScOs)
+                                            <span asp-validation-for="AvlScOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td><b>AVC SC</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.AvcScOd)
+                                            <span asp-validation-for="AvcScOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.AvcScOs)
+                                            <span asp-validation-for="AvcScOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>W</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.WOd)
+                                            <span asp-validation-for="WOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.WOs)
+                                            <span asp-validation-for="WOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td><b>ADD</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.AddOd)
+                                            <span asp-validation-for="AddOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.AddOs)
+                                            <span asp-validation-for="AddOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>AVL CC</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.AvlCcOd)
+                                            <span asp-validation-for="AvlCcOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.AvlCcOs)
+                                            <span asp-validation-for="AvlCcOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td><b>AVC CC</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.AvcCcOd)
+                                            <span asp-validation-for="AvcCcOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.AvcCcOs)
+                                            <span asp-validation-for="AvcCcOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <hr />
+
+            <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                    <h6 class="m-0 font-weight-bold text-primary">Tabla de datos 2</h6>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th colspan="3"> </th>
+                                    <th>ESF.</th>
+                                    <th>CIL</th>
+                                    <th>EJE.</th>
+                                    <th>ADICIÓN</th>
+                                    <th>MATERIALES</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td rowspan="4">
+                                        M + S
+                                    </td>
+                                    <td rowspan="2">
+                                        LEJOS
+                                    </td>
+                                    <td>
+                                        OD
+                                    </td>
+                                    <td>
+
+                        <dd class="col-sm-10">
+                                            @Html.DisplayFor(model => model.MsLejosOdEsf)
+                            <span asp-validation-for="MsLejosOdEsf" class="text-danger"></span>
+                        </dd>
+
+                        </td>
+                        <td>
+                                        @Html.DisplayFor(model => model.MsLejosOdCil)
+                            <span asp-validation-for="MsLejosOdCil" class="text-danger"></span>
+                        </td>
+                        <td>
+                                        @Html.DisplayFor(model => model.MsLejosOdEje)
+                            <span asp-validation-for="MsLejosOdEje" class="text-danger"></span>
+                        </td>
+                        <td>
+                                        @Html.DisplayFor(model => model.MsLejosOdAdicion)
+                            <span asp-validation-for="MsLejosOdAdicion" class="text-danger"></span>
+                        </td>
+                        <td>
+                                        @Html.DisplayFor(model => model.MsLejosOdMateriales)
+                            <span asp-validation-for="MsLejosOdMateriales" class="text-danger"></span>
+                        </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                OS
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsLejosOsEsf)
+                                <span asp-validation-for="MsLejosOsEsf" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsLejosOsCil)
+                                <span asp-validation-for="MsLejosOsCil" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsLejosOsEje)
+                                <span asp-validation-for="MsLejosOsEje" class="text-danger"></span>
+                            </td>
+                            <td>
+
+                                        @Html.DisplayFor(model => model.MsLejosOsAdicion)
+
+                                <span asp-validation-for="MsLejosOsAdicion" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsLejosOsMateriales)
+
+                                <span asp-validation-for="MsLejosOsMateriales" class="text-danger"></span>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td rowspan="2">
+                                CERCA
+                            </td>
+                            <td>
+                                OD
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsCercaOdEsf)
+                                <span asp-validation-for="MsCercaOdEsf" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsCercaOdCil)
+                                <span asp-validation-for="MsCercaOdCil" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsCercaOdEje)
+                                <span asp-validation-for="MsCercaOdEje" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsCercaOdAdicion)
+                                <span asp-validation-for="MsCercaOdAdicion" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsCercaOdMateriales)
+                                <span asp-validation-for="MsCercaOdMateriales" class="text-danger"></span>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                OS
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsCercaOsEsf)
+                                <span asp-validation-for="MsCercaOsEsf" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsCercaOsCil)
+                                <span asp-validation-for="MsCercaOsCil" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsCercaOsEje)
+                                <span asp-validation-for="MsCercaOsEje" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsCercaOsAdicion)
+                                <span asp-validation-for="MsCercaOsAdicion" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MsCercaOsMateriales)
+                                <span asp-validation-for="MsCercaOsMateriales" class="text-danger"></span>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td rowspan="2">
+                                M + R
+                            </td>
+                            <td rowspan="2">
+                                LEJOS
+                            </td>
+                            <td>
+                                OD
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MrLejosOdEsf)
+                                <span asp-validation-for="MrLejosOdEsf" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MrLejosOdCil)
+                                <span asp-validation-for="MrLejosOdCil" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MrLejosOdEje)
+                                <span asp-validation-for="MrLejosOdEje" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MrLejosOdAdicion)
+                                <span asp-validation-for="MrLejosOdAdicion" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MrLejosOdMateriales)
+                                <span asp-validation-for="MrLejosOdMateriales" class="text-danger"></span>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                OS
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MrLejosOsEsf)
+                                <span asp-validation-for="MrLejosOsEsf" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MrLejosOsCil)
+                                <span asp-validation-for="MrLejosOsCil" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MrLejosOsEje)
+                                <span asp-validation-for="MrLejosOsEje" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MrLejosOsAdicion)
+                                <span asp-validation-for="MrLejosOsAdicion" class="text-danger"></span>
+                            </td>
+                            <td>
+                                        @Html.DisplayFor(model => model.MrLejosOsMateriales)
+                                <span asp-validation-for="MrLejosOsMateriales" class="text-danger"></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                DIP
+                            </td>
+                            <td colspan="7">
+                                        @Html.DisplayFor(model => model.Dip)
+                                <span asp-validation-for="Dip" class="text-danger"></span>
+                            </td>
+                        </tr>
+
+                        </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <hr />
+
+
+
+            <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                    <h6 class="m-0 font-weight-bold text-primary">Tabla de datos 3</h6>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                            <thead>
+                                <tr>
+                                    <th> </th>
+                                    <th>OD</th>
+                                    <th>OS</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><b>LH</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.LhOd)
+                                            <span asp-validation-for="LhOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.LhOs)
+                                            <span asp-validation-for="LhOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>BUT</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.ButOd)
+                                            <span asp-validation-for="ButOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.ButOs)
+                                            <span asp-validation-for="ButOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>PIO</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.PioOd)
+                                            <span asp-validation-for="PioOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.PioOs)
+                                            <span asp-validation-for="PioOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>EXC</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.ExcOd)
+                                            <span asp-validation-for="ExcOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.ExcOs)
+                                            <span asp-validation-for="ExcOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>FOI</b></td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.FoiOd)
+                                            <span asp-validation-for="FoiOd" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="form-group">
+                                            @Html.DisplayFor(model => model.FoiOs)
+                                            <span asp-validation-for="FoiOs" class="text-danger"></span>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <hr />
+
+            <div class="form-group">
+                <b>
+                    <label asp-for="ImpresionClinica" class="control-label">Impresiones Clinicas</label>
+                </b>
+                <br />
+                @Html.DisplayFor(model => model.ImpresionClinica)
+                <span asp-validation-for="ImpresionClinica" class="text-danger"></span>
+            </div>
+
+
+
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.TbPersonas)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.TbPersonas.Id)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.TbUsuarios)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.TbUsuarios.Id)
+            </dd>
+        </div>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

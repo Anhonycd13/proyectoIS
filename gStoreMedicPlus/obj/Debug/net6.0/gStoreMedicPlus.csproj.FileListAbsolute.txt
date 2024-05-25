@@ -1,0 +1,892 @@
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\appsettings.Development.json
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\appsettings.json
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.staticwebassets.runtime.json
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.exe
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.deps.json
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.runtimeconfig.json
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.pdb
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Azure.Core.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Azure.Identity.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Humanizer.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.barcodes.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.forms.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.io.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.kernel.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.layout.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.pdfa.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.sign.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\MessagePack.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Build.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Common.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.CodeDom.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Memory.Data.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Text.Json.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.csproj.AssemblyReference.cache
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.AssemblyInfoInputs.cache
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.AssemblyInfo.cs
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.csproj.CoreCompileInputs.cache
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.RazorAssemblyInfo.cache
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.RazorAssemblyInfo.cs
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.gStoreMedicPlus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.build.gStoreMedicPlus.props
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gStoreMedicPlus.props
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gStoreMedicPlus.props
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets.pack.json
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets.build.json
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets.development.json
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\scopedcss\bundle\gStoreMedicPlus.styles.css
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\scopedcss\projectbundle\gStoreMedicPlus.bundle.scp.css
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.csproj.CopyComplete
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\refint\gStoreMedicPlus.dll
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.pdb
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.genruntimeconfig.cache
+C:\INFOLABS\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\ref\gStoreMedicPlus.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\appsettings.json
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.staticwebassets.runtime.json
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.exe
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.deps.json
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.runtimeconfig.json
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.pdb
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.barcodes.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.forms.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.io.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.kernel.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.layout.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.pdfa.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.sign.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\MessagePack.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.csproj.AssemblyReference.cache
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.AssemblyInfoInputs.cache
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.AssemblyInfo.cs
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.csproj.CoreCompileInputs.cache
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.RazorAssemblyInfo.cache
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.RazorAssemblyInfo.cs
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.gStoreMedicPlus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.build.gStoreMedicPlus.props
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gStoreMedicPlus.props
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gStoreMedicPlus.props
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\scopedcss\bundle\gStoreMedicPlus.styles.css
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\scopedcss\projectbundle\gStoreMedicPlus.bundle.scp.css
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.csproj.CopyComplete
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\refint\gStoreMedicPlus.dll
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.pdb
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.genruntimeconfig.cache
+C:\Users\ESTUARDO\Desktop\Repositoriogithub\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\ref\gStoreMedicPlus.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\refint\gStoreMedicPlus.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.pdb
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\appsettings.json
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.staticwebassets.runtime.json
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.exe
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.deps.json
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.runtimeconfig.json
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\gStoreMedicPlus.pdb
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Humanizer.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.barcodes.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.forms.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.io.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.kernel.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.layout.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.pdfa.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\itext.sign.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\MessagePack.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.csproj.AssemblyReference.cache
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.AssemblyInfoInputs.cache
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.AssemblyInfo.cs
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.csproj.CoreCompileInputs.cache
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.RazorAssemblyInfo.cache
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.RazorAssemblyInfo.cs
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.sourcelink.json
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.gStoreMedicPlus.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.build.gStoreMedicPlus.props
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gStoreMedicPlus.props
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gStoreMedicPlus.props
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\scopedcss\bundle\gStoreMedicPlus.styles.css
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\scopedcss\projectbundle\gStoreMedicPlus.bundle.scp.css
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.csproj.CopyComplete
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\gStoreMedicPlus.genruntimeconfig.cache
+C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\obj\Debug\net6.0\ref\gStoreMedicPlus.dll

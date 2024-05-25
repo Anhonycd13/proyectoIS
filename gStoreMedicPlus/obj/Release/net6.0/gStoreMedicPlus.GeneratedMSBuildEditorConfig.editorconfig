@@ -1,0 +1,195 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = gStoreMedicPlus
+build_property.RootNamespace = gStoreMedicPlus
+build_property.ProjectDir = C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\thony\OneDrive\Escritorio\pg1 mejoramieentos\gStoreMedicPlus\gStoreMedicPlus
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/CategoriaDatosA/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhRGF0b3NBXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/CategoriaDatosA/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhRGF0b3NBXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/CategoriaDatosA/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhRGF0b3NBXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/CategoriaDatosA/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhRGF0b3NBXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/CategoriaDatosA/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhRGF0b3NBXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/CategoriaDatosB/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhRGF0b3NCXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/CategoriaDatosB/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhRGF0b3NCXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/CategoriaDatosB/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhRGF0b3NCXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/CategoriaDatosB/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhRGF0b3NCXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/CategoriaDatosB/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhRGF0b3NCXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Consultas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Consultas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Consultas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Consultas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Consultas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VsdGFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Datos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Datos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Datos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Datos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Datos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Personas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Personas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Personas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Personas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Personas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/TbConsultas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJDb25zdWx0YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/TbConsultas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJDb25zdWx0YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/TbConsultas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJDb25zdWx0YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/TbConsultas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJDb25zdWx0YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/TbConsultas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJDb25zdWx0YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/TbConsultas/Reconsulta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGJDb25zdWx0YXNcUmVjb25zdWx0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Usuarios/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thony/OneDrive/Escritorio/pg1 mejoramieentos/gStoreMedicPlus/gStoreMedicPlus/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lrxr0n72fr
